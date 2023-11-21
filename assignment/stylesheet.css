@@ -1,7 +1,11 @@
-#titles{
-    background-color: #013220;
-    color: white;
-    text-align: center;
+body{
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0px;
+}
+
+#bold{
+    font-weight: bold;
 }
 
 .shortDescription{
@@ -9,8 +13,22 @@
     padding: 1em;
 }
 
-body{
-    background-image: url("record.png");
-    background-repeat: repeat;
-    margin: 0px;
+#titles{
+    background-color: #013220;
+    color: white;
+    text-align: center;
+}
+
+#questionsList{
+    background-color: black;
+    color: white;
+    padding: 1em;
+    margin-top: 2em;
+    margin-right: 2em;
+    margin-left: 2em;
+    border-radius: 15px;
+}
+
+.questListFont{
+    font-size: 28px;
 }
