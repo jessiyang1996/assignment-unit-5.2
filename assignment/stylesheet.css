@@ -1,0 +1,16 @@
+#titles{
+    background-color: #013220;
+    color: white;
+    text-align: center;
+}
+
+.shortDescription{
+    background-color: #ececec;
+    padding: 1em;
+}
+
+body{
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0px;
+}
